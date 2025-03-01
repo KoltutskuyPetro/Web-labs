@@ -1,0 +1,14 @@
+/Users/petro/Desktop/універ/4 курс 2 семестр/Сучасні технології розробки Web-проєктів/Web-labs/lab1/Adapter/Adapter/bin/Debug/net8.0/Adapter
+/Users/petro/Desktop/універ/4 курс 2 семестр/Сучасні технології розробки Web-проєктів/Web-labs/lab1/Adapter/Adapter/bin/Debug/net8.0/Adapter.deps.json
+/Users/petro/Desktop/універ/4 курс 2 семестр/Сучасні технології розробки Web-проєктів/Web-labs/lab1/Adapter/Adapter/bin/Debug/net8.0/Adapter.runtimeconfig.json
+/Users/petro/Desktop/універ/4 курс 2 семестр/Сучасні технології розробки Web-проєктів/Web-labs/lab1/Adapter/Adapter/bin/Debug/net8.0/Adapter.dll
+/Users/petro/Desktop/універ/4 курс 2 семестр/Сучасні технології розробки Web-проєктів/Web-labs/lab1/Adapter/Adapter/bin/Debug/net8.0/Adapter.pdb
+/Users/petro/Desktop/універ/4 курс 2 семестр/Сучасні технології розробки Web-проєктів/Web-labs/lab1/Adapter/Adapter/obj/Debug/net8.0/Adapter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/petro/Desktop/універ/4 курс 2 семестр/Сучасні технології розробки Web-проєктів/Web-labs/lab1/Adapter/Adapter/obj/Debug/net8.0/Adapter.AssemblyInfoInputs.cache
+/Users/petro/Desktop/універ/4 курс 2 семестр/Сучасні технології розробки Web-проєктів/Web-labs/lab1/Adapter/Adapter/obj/Debug/net8.0/Adapter.AssemblyInfo.cs
+/Users/petro/Desktop/універ/4 курс 2 семестр/Сучасні технології розробки Web-проєктів/Web-labs/lab1/Adapter/Adapter/obj/Debug/net8.0/Adapter.csproj.CoreCompileInputs.cache
+/Users/petro/Desktop/універ/4 курс 2 семестр/Сучасні технології розробки Web-проєктів/Web-labs/lab1/Adapter/Adapter/obj/Debug/net8.0/Adapter.dll
+/Users/petro/Desktop/універ/4 курс 2 семестр/Сучасні технології розробки Web-проєктів/Web-labs/lab1/Adapter/Adapter/obj/Debug/net8.0/refint/Adapter.dll
+/Users/petro/Desktop/універ/4 курс 2 семестр/Сучасні технології розробки Web-проєктів/Web-labs/lab1/Adapter/Adapter/obj/Debug/net8.0/Adapter.pdb
+/Users/petro/Desktop/універ/4 курс 2 семестр/Сучасні технології розробки Web-проєктів/Web-labs/lab1/Adapter/Adapter/obj/Debug/net8.0/Adapter.genruntimeconfig.cache
+/Users/petro/Desktop/універ/4 курс 2 семестр/Сучасні технології розробки Web-проєктів/Web-labs/lab1/Adapter/Adapter/obj/Debug/net8.0/ref/Adapter.dll

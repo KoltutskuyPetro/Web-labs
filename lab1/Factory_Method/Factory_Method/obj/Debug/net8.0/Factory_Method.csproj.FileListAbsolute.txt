@@ -1,0 +1,14 @@
+/Users/petro/Desktop/універ/4 курс 2 семестр/Сучасні технології розробки Web-проєктів/Web-labs/lab1/Factory_Method/Factory_Method/bin/Debug/net8.0/Factory_Method
+/Users/petro/Desktop/універ/4 курс 2 семестр/Сучасні технології розробки Web-проєктів/Web-labs/lab1/Factory_Method/Factory_Method/bin/Debug/net8.0/Factory_Method.deps.json
+/Users/petro/Desktop/універ/4 курс 2 семестр/Сучасні технології розробки Web-проєктів/Web-labs/lab1/Factory_Method/Factory_Method/bin/Debug/net8.0/Factory_Method.runtimeconfig.json
+/Users/petro/Desktop/універ/4 курс 2 семестр/Сучасні технології розробки Web-проєктів/Web-labs/lab1/Factory_Method/Factory_Method/bin/Debug/net8.0/Factory_Method.dll
+/Users/petro/Desktop/універ/4 курс 2 семестр/Сучасні технології розробки Web-проєктів/Web-labs/lab1/Factory_Method/Factory_Method/bin/Debug/net8.0/Factory_Method.pdb
+/Users/petro/Desktop/універ/4 курс 2 семестр/Сучасні технології розробки Web-проєктів/Web-labs/lab1/Factory_Method/Factory_Method/obj/Debug/net8.0/Factory_Method.GeneratedMSBuildEditorConfig.editorconfig
+/Users/petro/Desktop/універ/4 курс 2 семестр/Сучасні технології розробки Web-проєктів/Web-labs/lab1/Factory_Method/Factory_Method/obj/Debug/net8.0/Factory_Method.AssemblyInfoInputs.cache
+/Users/petro/Desktop/універ/4 курс 2 семестр/Сучасні технології розробки Web-проєктів/Web-labs/lab1/Factory_Method/Factory_Method/obj/Debug/net8.0/Factory_Method.AssemblyInfo.cs
+/Users/petro/Desktop/універ/4 курс 2 семестр/Сучасні технології розробки Web-проєктів/Web-labs/lab1/Factory_Method/Factory_Method/obj/Debug/net8.0/Factory_Method.csproj.CoreCompileInputs.cache
+/Users/petro/Desktop/універ/4 курс 2 семестр/Сучасні технології розробки Web-проєктів/Web-labs/lab1/Factory_Method/Factory_Method/obj/Debug/net8.0/Factory_Method.dll
+/Users/petro/Desktop/універ/4 курс 2 семестр/Сучасні технології розробки Web-проєктів/Web-labs/lab1/Factory_Method/Factory_Method/obj/Debug/net8.0/refint/Factory_Method.dll
+/Users/petro/Desktop/універ/4 курс 2 семестр/Сучасні технології розробки Web-проєктів/Web-labs/lab1/Factory_Method/Factory_Method/obj/Debug/net8.0/Factory_Method.pdb
+/Users/petro/Desktop/універ/4 курс 2 семестр/Сучасні технології розробки Web-проєктів/Web-labs/lab1/Factory_Method/Factory_Method/obj/Debug/net8.0/Factory_Method.genruntimeconfig.cache
+/Users/petro/Desktop/універ/4 курс 2 семестр/Сучасні технології розробки Web-проєктів/Web-labs/lab1/Factory_Method/Factory_Method/obj/Debug/net8.0/ref/Factory_Method.dll

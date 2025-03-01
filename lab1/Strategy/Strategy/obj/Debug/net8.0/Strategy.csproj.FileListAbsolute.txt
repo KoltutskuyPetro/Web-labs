@@ -1,0 +1,14 @@
+/Users/petro/Desktop/універ/4 курс 2 семестр/Сучасні технології розробки Web-проєктів/Web-labs/lab1/Strategy/Strategy/bin/Debug/net8.0/Strategy
+/Users/petro/Desktop/універ/4 курс 2 семестр/Сучасні технології розробки Web-проєктів/Web-labs/lab1/Strategy/Strategy/bin/Debug/net8.0/Strategy.deps.json
+/Users/petro/Desktop/універ/4 курс 2 семестр/Сучасні технології розробки Web-проєктів/Web-labs/lab1/Strategy/Strategy/bin/Debug/net8.0/Strategy.runtimeconfig.json
+/Users/petro/Desktop/універ/4 курс 2 семестр/Сучасні технології розробки Web-проєктів/Web-labs/lab1/Strategy/Strategy/bin/Debug/net8.0/Strategy.dll
+/Users/petro/Desktop/універ/4 курс 2 семестр/Сучасні технології розробки Web-проєктів/Web-labs/lab1/Strategy/Strategy/bin/Debug/net8.0/Strategy.pdb
+/Users/petro/Desktop/універ/4 курс 2 семестр/Сучасні технології розробки Web-проєктів/Web-labs/lab1/Strategy/Strategy/obj/Debug/net8.0/Strategy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/petro/Desktop/універ/4 курс 2 семестр/Сучасні технології розробки Web-проєктів/Web-labs/lab1/Strategy/Strategy/obj/Debug/net8.0/Strategy.AssemblyInfoInputs.cache
+/Users/petro/Desktop/універ/4 курс 2 семестр/Сучасні технології розробки Web-проєктів/Web-labs/lab1/Strategy/Strategy/obj/Debug/net8.0/Strategy.AssemblyInfo.cs
+/Users/petro/Desktop/універ/4 курс 2 семестр/Сучасні технології розробки Web-проєктів/Web-labs/lab1/Strategy/Strategy/obj/Debug/net8.0/Strategy.csproj.CoreCompileInputs.cache
+/Users/petro/Desktop/універ/4 курс 2 семестр/Сучасні технології розробки Web-проєктів/Web-labs/lab1/Strategy/Strategy/obj/Debug/net8.0/Strategy.dll
+/Users/petro/Desktop/універ/4 курс 2 семестр/Сучасні технології розробки Web-проєктів/Web-labs/lab1/Strategy/Strategy/obj/Debug/net8.0/refint/Strategy.dll
+/Users/petro/Desktop/універ/4 курс 2 семестр/Сучасні технології розробки Web-проєктів/Web-labs/lab1/Strategy/Strategy/obj/Debug/net8.0/Strategy.pdb
+/Users/petro/Desktop/універ/4 курс 2 семестр/Сучасні технології розробки Web-проєктів/Web-labs/lab1/Strategy/Strategy/obj/Debug/net8.0/Strategy.genruntimeconfig.cache
+/Users/petro/Desktop/універ/4 курс 2 семестр/Сучасні технології розробки Web-проєктів/Web-labs/lab1/Strategy/Strategy/obj/Debug/net8.0/ref/Strategy.dll
