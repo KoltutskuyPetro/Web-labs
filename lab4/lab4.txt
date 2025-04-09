@@ -1,2 +1,2 @@
-Add tests to the projects in the lab2 and lab3 folders. 
+Tests have been added to the projects in the lab2 and lab3 folders. 
 They are located in the tests folders.
