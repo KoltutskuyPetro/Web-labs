@@ -34,3 +34,15 @@
 /Users/petro/Projects/lab2/lab2/obj/Debug/net8.0/lab2.pdb
 /Users/petro/Projects/lab2/lab2/obj/Debug/net8.0/lab2.genruntimeconfig.cache
 /Users/petro/Projects/lab2/lab2/obj/Debug/net8.0/ref/lab2.dll
+/Users/petro/Desktop/універ/4 курс 2 семестр/Сучасні технології розробки Web-проєктів/Web-labs/lab2/lab2/lab2/obj/Debug/net8.0/lab2.csproj.AssemblyReference.cache
+/Users/petro/Desktop/універ/4 курс 2 семестр/Сучасні технології розробки Web-проєктів/Web-labs/lab2/lab2/lab2/obj/Debug/net8.0/lab2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/petro/Desktop/універ/4 курс 2 семестр/Сучасні технології розробки Web-проєктів/Web-labs/lab2/lab2/lab2/obj/Debug/net8.0/lab2.AssemblyInfoInputs.cache
+/Users/petro/Desktop/універ/4 курс 2 семестр/Сучасні технології розробки Web-проєктів/Web-labs/lab2/lab2/lab2/obj/Debug/net8.0/lab2.AssemblyInfo.cs
+/Users/petro/Desktop/універ/4 курс 2 семестр/Сучасні технології розробки Web-проєктів/Web-labs/lab2/lab2/lab2/obj/Debug/net8.0/lab2.csproj.CoreCompileInputs.cache
+/Users/petro/Desktop/універ/4 курс 2 семестр/Сучасні технології розробки Web-проєктів/Web-labs/lab2/lab2/lab2/obj/Debug/net8.0/lab2.MvcApplicationPartsAssemblyInfo.cache
+/Users/petro/Desktop/універ/4 курс 2 семестр/Сучасні технології розробки Web-проєктів/Web-labs/lab2/lab2/lab2/obj/Debug/net8.0/lab2.RazorAssemblyInfo.cache
+/Users/petro/Desktop/універ/4 курс 2 семестр/Сучасні технології розробки Web-проєктів/Web-labs/lab2/lab2/lab2/obj/Debug/net8.0/lab2.RazorAssemblyInfo.cs
+/Users/petro/Desktop/універ/4 курс 2 семестр/Сучасні технології розробки Web-проєктів/Web-labs/lab2/lab2/lab2/obj/Debug/net8.0/lab2.sourcelink.json
+/Users/petro/Desktop/універ/4 курс 2 семестр/Сучасні технології розробки Web-проєктів/Web-labs/lab2/lab2/lab2/obj/Debug/net8.0/lab2.dll
+/Users/petro/Desktop/універ/4 курс 2 семестр/Сучасні технології розробки Web-проєктів/Web-labs/lab2/lab2/lab2/obj/Debug/net8.0/refint/lab2.dll
+/Users/petro/Desktop/універ/4 курс 2 семестр/Сучасні технології розробки Web-проєктів/Web-labs/lab2/lab2/lab2/obj/Debug/net8.0/lab2.pdb

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/petro/Projects/lab2/lab2/lab2.csproj": {}
+    "/Users/petro/Desktop/універ/4 курс 2 семестр/Сучасні технології розробки Web-проєктів/Web-labs/lab2/lab2/lab2/lab2.csproj": {}
   },
   "projects": {
-    "/Users/petro/Projects/lab2/lab2/lab2.csproj": {
+    "/Users/petro/Desktop/універ/4 курс 2 семестр/Сучасні технології розробки Web-проєктів/Web-labs/lab2/lab2/lab2/lab2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/petro/Projects/lab2/lab2/lab2.csproj",
+        "projectUniqueName": "/Users/petro/Desktop/універ/4 курс 2 семестр/Сучасні технології розробки Web-проєктів/Web-labs/lab2/lab2/lab2/lab2.csproj",
         "projectName": "lab2",
-        "projectPath": "/Users/petro/Projects/lab2/lab2/lab2.csproj",
+        "projectPath": "/Users/petro/Desktop/універ/4 курс 2 семестр/Сучасні технології розробки Web-проєктів/Web-labs/lab2/lab2/lab2/lab2.csproj",
         "packagesPath": "/Users/petro/.nuget/packages/",
-        "outputPath": "/Users/petro/Projects/lab2/lab2/obj/",
+        "outputPath": "/Users/petro/Desktop/універ/4 курс 2 семестр/Сучасні технології розробки Web-проєктів/Web-labs/lab2/lab2/lab2/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/petro/.nuget/NuGet/NuGet.Config"
@@ -49,6 +49,14 @@
             "Microsoft.SqlServer.Server": {
               "target": "Package",
               "version": "[1.0.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.72, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.9.3, )"
             }
           },
           "imports": [
